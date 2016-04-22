@@ -1,5 +1,8 @@
 == README
 
+This is an example of a e-commerce were you can display your products, view different info clicking the tabs,
+hide the product if it's sold out or write and submit reviews for each product.
+
 To run properly you need serve the app.
 
 If you have node, using http-server is enough.
