@@ -1,0 +1,15 @@
+== README
+
+To run properly you need serve the app.
+
+If you have node, using http-server is enough.
+
+The technologies i used in this app are:
+
+* AngularJS v1.5.3
+
+* JavaScript node v5.10.1
+
+* jQuery JavaScript Library v2.1.4
+
+* Bootstrap v3.3.6
